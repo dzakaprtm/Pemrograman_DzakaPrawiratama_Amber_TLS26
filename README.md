@@ -1,2 +1,4 @@
 # Pemrograman_DzakaPrawiratama_Amber_TLS26
 tugas TLS26
+Dzaka Prawiratama
+Amber
